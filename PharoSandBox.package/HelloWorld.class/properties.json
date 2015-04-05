@@ -1,0 +1,14 @@
+{
+	"category" : "PharoSandBox",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "HelloWorld",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
