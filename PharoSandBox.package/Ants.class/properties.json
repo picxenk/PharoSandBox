@@ -1,0 +1,15 @@
+{
+	"category" : "PharoSandBox-Ants",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"antsString",
+		"ants" ],
+	"name" : "Ants",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
